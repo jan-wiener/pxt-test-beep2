@@ -21,9 +21,7 @@ basic.forever(function() {
 
     lastTimePressedA = catchA()
     
-    console.log(lastTimePressedA)
-    console.log(control.millis())
-
+    
 
 
 })
